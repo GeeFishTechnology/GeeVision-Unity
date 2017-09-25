@@ -6,6 +6,6 @@
 
 该SDK在 Unity 5.6.0f3 版本下开发
 
-相关API文档可以查阅[GeeVision Wiki](https://github.com/GeeFishTechnology/GeeVision-Unity/wiki)
+相关API文档可以查阅 [GeeVision Wiki](https://github.com/GeeFishTechnology/GeeVision-Unity/wiki)
 
-更多关于极鱼科技的信息，敬请查看[极鱼科技](http://www.thisvr.cn)
+更多关于极鱼科技的信息，敬请查看 [极鱼科技](http://www.thisvr.cn)
