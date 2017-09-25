@@ -1,0 +1,8 @@
+#Unity3D
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+*.meta
+
+#Mac OS X
+.DS_Store
